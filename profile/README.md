@@ -1,196 +1,234 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/322972010?s=200&v=4" width="132" alt="AxisOption logo">
+<img src="https://raw.githubusercontent.com/axisoption/.github/main/profile/assets/axisoption-hero.svg?v=2" width="100%" alt="AxisOption — Professional options trading with live market pricing" />
 
-# AxisOption
+<br/>
 
-### Professional options trading, built for clarity.
+[![Official Website](https://img.shields.io/badge/OFFICIAL%20WEBSITE-axisoption.com-07111F?style=for-the-badge&logo=googlechrome&logoColor=19E6C3)](https://axisoption.com/)
+[![Live Platform](https://img.shields.io/badge/LIVE%20PLATFORM-OPEN-07111F?style=for-the-badge&logo=tradingview&logoColor=38BDF8)](https://trade.corexcapitalai.com/)
+[![Interactive Demo](https://img.shields.io/badge/INTERACTIVE%20DEMO-TRY%20NOW-07111F?style=for-the-badge&logo=lightning&logoColor=8B7CFF)](https://axisoption.com/products.html)
+[![Partner Program](https://img.shields.io/badge/PARTNER%20PROGRAM-APPLY-07111F?style=for-the-badge&logo=handshake&logoColor=19E6C3)](https://axisoption.com/partners.html)
 
-**High-speed options trading infrastructure for Forex, Crypto, Commodities and selected Stocks — with transparent trade conditions, a professional demo environment and multi-language access.**
+<br/>
 
-[![Website](https://img.shields.io/badge/Official_Website-axisoption.com-111111?style=for-the-badge)](https://axisoption.com/)
-[![Platform](https://img.shields.io/badge/Live_Platform-Open-111111?style=for-the-badge)](https://trade.corexcapitalai.com/)
-[![Demo](https://img.shields.io/badge/Interactive_Demo-Try_Now-111111?style=for-the-badge)](https://axisoption.com/products.html)
-[![Partners](https://img.shields.io/badge/Partner_Program-Apply-111111?style=for-the-badge)](https://axisoption.com/partners.html)
+**Live market pricing · TradingView charts · Early trade cancellation · Transparent conditions · 24/7 multilingual support**
+
+[![Since 2018](https://img.shields.io/badge/SINCE-2018-0D1A2B?style=flat-square&labelColor=0D1A2B&color=19E6C3)](https://axisoption.com/about.html)
+[![$10K Demo](https://img.shields.io/badge/VIRTUAL%20DEMO-%2410K-0D1A2B?style=flat-square&labelColor=0D1A2B&color=38BDF8)](https://axisoption.com/products.html)
+[![Languages](https://img.shields.io/badge/LANGUAGES-EN%20·%20TR%20·%20AR%20·%20FA-0D1A2B?style=flat-square&labelColor=0D1A2B&color=8B7CFF)](https://axisoption.com/)
+[![Support](https://img.shields.io/badge/CLIENT%20SUPPORT-24%2F7-0D1A2B?style=flat-square&labelColor=0D1A2B&color=19E6C3)](https://axisoption.com/contact.html)
 
 </div>
 
 ---
 
-## Professional Options Trading Platform
+## The AxisOption Experience
 
-AxisOption is a professional options trading platform focused on **speed, clarity and accessible market infrastructure**. The platform brings together multi-asset market access, responsive order handling, transparent trade conditions and a demo environment designed to let users explore the trading experience before moving to a live account.
+**AxisOption** is a professional options trading platform built around **market-aligned pricing, clear trade conditions, responsive execution and direct access to professional charting**.
 
-AxisOption publicly presents market access across **Forex, Crypto, Commodities and selected Stocks**, together with multiple options products and flexible trade durations.
+The public platform experience covers **Forex, Crypto, Commodities and selected Stocks**, with multiple options formats and a responsive terminal designed for desktop, tablet and mobile.
 
-| Platform capability | Publicly available experience |
-|---|---|
-| **Markets** | Forex · Crypto · Commodities · Selected Stocks |
-| **Options products** | Binary Options · Turbo Options · Range Options · One-Touch Options |
-| **Execution experience** | One-click BUY / SELL with low-latency infrastructure |
-| **Demo environment** | Interactive demo with **$10,000 virtual balance** |
-| **Expiry choices** | Multiple durations including **30 seconds, 1 minute and 5 minutes** |
-| **Charting** | Integrated professional charting with direct trade entry |
-| **Trade transparency** | Payout rates and expiry rules displayed before confirmation |
-| **Security** | Encrypted connections and **256-bit TLS / SSL** |
-| **Languages** | English · Turkish · Arabic · Persian |
-| **Infrastructure** | Powered by **CorexCapital AI** enterprise trading infrastructure |
-| **Client access** | 24/7 live chat and email support |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### ◈ Live Market Pricing
+Quotes are presented in alignment with global market data and the trading sessions of the underlying instruments. Non-crypto markets follow their normal market hours, while crypto remains continuously available.
 
-## Built for Fast, Clear Trading
+</td>
+<td width="50%" valign="top">
 
-### ⚡ Responsive Execution
-Low-latency infrastructure is designed for responsive order handling and a fast trading workflow.
+### ◇ TradingView, Built In
+Analyze markets with TradingView indicators, drawing tools, multiple timeframes and live price data directly inside the trading workflow.
 
-### 🌍 Multi-Asset Access
-Access Forex, cryptocurrencies, commodities and selected stocks from a unified trading environment.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 Professional Chart-Based Trading
-Analyze markets and place trades from the chart without switching between disconnected tools.
+### ↩ Early Trade Cancellation
+Eligible trades may be cancelled during the initial cancellation window, returning the full stake where the feature is available under the current platform rules.
 
-### 🧪 Explore Before Going Live
-The interactive demo provides virtual funds so users can explore the interface and trading workflow before opening a live account.
+</td>
+<td width="50%" valign="top">
 
-### 📋 Transparent Conditions
-Payout information, expiry rules and risk information are presented before trade confirmation.
+### ◎ Transparent Before Confirmation
+Payout rates, expiry conditions and relevant trade information are shown before a trade is confirmed — designed to keep the decision process clear.
 
-### 🔐 Secure Account Experience
-AxisOption publishes encrypted-connection and account-security measures designed for a professional financial-platform environment.
+</td>
+</tr>
+</table>
 
 ---
 
-## Options Products
-
-AxisOption provides access to several options trading formats:
-
-**Binary Options** — directional options trading with defined expiry conditions.
-
-**Turbo Options** — short-duration options for time-sensitive market movements.
-
-**Range Options** — positions based on whether price remains within or moves relative to a defined range.
-
-**One-Touch Options** — options structured around whether a specified price level is reached.
-
-> Product availability, payout conditions and eligibility may vary. Review the current platform terms before trading.
-
----
-
-## Interactive Demo
-
-The AxisOption demo environment is designed to provide a practical preview of the trading interface using virtual funds.
-
-**Demo highlights:**
-
-- $10,000 virtual balance
-- BUY / CALL and SELL / PUT workflow
-- Multiple expiry durations
-- Visible payout information before trade confirmation
-- Active-trade monitoring
-- Position result display
-- Multi-asset market selection
-- Professional chart-based analysis
-
-### [Explore the Interactive Demo →](https://axisoption.com/products.html)
-
----
-
-## Technology Infrastructure
-
-AxisOption's trading terminal operates on infrastructure powered by **CorexCapital AI**.
-
-The public platform positioning emphasizes:
-
-- Low-latency execution
-- High availability
-- Encrypted connections
-- Market-data and trading-terminal infrastructure
-- Professional-grade platform operations
-
-This GitHub organization is a **public brand and technology showcase**. Proprietary trading logic, private infrastructure, security-sensitive configuration, user data and internal systems are not published here.
-
----
-
-## Partner Program
-
-AxisOption works with selected **IB networks, trading communities, finance publishers, content creators, educators, regional partners and compliant performance marketers**.
-
-Approved partners may receive:
-
-| Partner capability | Details |
-|---|---|
-| **Application process** | Manual review |
-| **Partner access** | Private dashboard after approval |
-| **Tracking** | Dedicated referral links and automated tracking |
-| **Reporting** | Referral, qualified activity and commission reporting |
-| **Performance insight** | Partner analytics and traffic-quality review |
-| **Commission model** | Up to **20% on eligible qualified deposits**, subject to approval and platform rules |
-| **Compliance** | GEO, traffic-quality, anti-fraud and promotion standards |
-
-### [Explore the AxisOption Partner Program →](https://axisoption.com/partners.html)
-
-AxisOption does not promote guaranteed returns, fixed income or risk-free trading. Partner activity is subject to eligibility, jurisdictional and compliance requirements.
-
----
-
-## Global & Multilingual Access
-
-AxisOption provides a multilingual public experience for international users.
-
-[**English**](https://axisoption.com/) ·
-[**Türkçe**](https://axisoption.com/?lang=tr) ·
-[**العربية**](https://axisoption.com/?lang=ar) ·
-[**فارسی**](https://axisoption.com/?lang=fa)
-
-The AxisOption website lists its registered office at **DIFC Gate Village, Dubai, United Arab Emirates** and provides international client access through its online platform.
-
----
-
-## News & Market Updates
-
-Follow the official **AxisOption News Hub** for platform announcements, market-focused updates, product developments and company news.
-
-### [Read the latest AxisOption News →](https://axisoption.com/news/index.html)
-
-The News Hub is maintained on the official AxisOption domain so visitors can access current updates directly from the source.
-
----
-
-## Official AxisOption Links
-
-| Destination | Official link |
-|---|---|
-| 🌐 **Website** | [axisoption.com](https://axisoption.com/) |
-| ⚡ **Live Trading Platform** | [Open Platform](https://trade.corexcapitalai.com/) |
-| 📊 **Products & Interactive Demo** | [Trading Platform & Products](https://axisoption.com/products.html) |
-| 🏢 **About AxisOption** | [Company & Technology](https://axisoption.com/about.html) |
-| 🤝 **Partner Program** | [Introducing Partner Opportunities](https://axisoption.com/partners.html) |
-| 💬 **Contact & Client Services** | [Contact AxisOption](https://axisoption.com/contact.html) |
-| ⚖️ **Terms & Risk Disclosure** | [Legal Center](https://axisoption.com/terms.html) |
-| ✉️ **Email** | [admin@axisoption.com](mailto:admin@axisoption.com) |
-
----
-
-## About AxisOption
-
-AxisOption states that it has served options traders since **2018**, with its current platform combining professional trading tools, transparent conditions, multilingual access and enterprise infrastructure.
-
-**Operating entity:** AxisOption Ltd.  
-**Registered office:** DIFC Gate Village, Dubai, United Arab Emirates  
-**Technology infrastructure:** CorexCapital AI  
-**Official website:** [https://axisoption.com](https://axisoption.com/)
-
----
+## See the Platform Before You Commit
 
 <div align="center">
 
-### Trade with clarity. Explore before you commit.
+<img src="https://axisoption.com/image/bac.png?v=7" width="92%" alt="AxisOption trading platform across desktop and mobile" />
 
-[**Visit AxisOption**](https://axisoption.com/) · [**Try the Demo**](https://axisoption.com/products.html) · [**Partner with AxisOption**](https://axisoption.com/partners.html)
+</div>
 
-<sub>
-Risk Warning: Financial markets involve substantial risk of loss and may not be suitable for all users. You may lose part or all of your capital. Past performance does not indicate future results. Services may be restricted in some jurisdictions. Review the Terms of Service and Risk Disclosure before using the platform.
-</sub>
+The interactive environment lets visitors explore the interface with **$10,000 in virtual funds** before moving to the live platform.
+
+| Terminal capability | Experience |
+|---|---|
+| **Chart-based trading** | TradingView charting with direct trade workflow |
+| **Order flow** | One-click BUY / CALL and SELL / PUT experience |
+| **Expiry choices** | Multiple durations, including 30 seconds, 1 minute and 5 minutes |
+| **Multi-asset access** | Forex · Crypto · Commodities · Selected Stocks |
+| **Demo balance** | $10,000 virtual funds for interface exploration |
+| **Trade visibility** | Payout and expiry displayed before confirmation |
+| **Responsive access** | Desktop · Tablet · Mobile |
+
+<div align="center">
+
+### [Launch the Interactive Demo →](https://axisoption.com/products.html)
+
+</div>
+
+---
+
+## Products Designed Around Different Market Views
+
+| Product | Built around |
+|---|---|
+| **Binary Options** | Directional market views with a defined expiry |
+| **Turbo Options** | Short-duration market opportunities |
+| **Range Options** | Whether price remains within or moves relative to a defined range |
+| **One-Touch Options** | Whether a specified price level is reached |
+
+> Product availability, payout conditions and eligibility may vary by account, market and jurisdiction. Always review the current platform terms before trading.
+
+---
+
+## Platform Standards
+
+<table>
+<tr>
+<td align="center" width="25%"><b>LIVE</b><br/><sub>Global pricing alignment</sub></td>
+<td align="center" width="25%"><b>256-bit</b><br/><sub>SSL encrypted access</sub></td>
+<td align="center" width="25%"><b>24/7</b><br/><sub>Direct client support</sub></td>
+<td align="center" width="25%"><b>4+</b><br/><sub>Platform languages</sub></td>
+</tr>
+</table>
+
+### Built for clarity. Designed for control.
+
+- **Transparent payout and expiry information** before trade confirmation
+- **Encrypted platform access** and protected account operations
+- **Responsive execution infrastructure** designed for fast trading workflows
+- **Professional charting** with TradingView tools integrated into the terminal
+- **Multilingual access** in English, Turkish, Arabic and Persian
+- **Direct support** through live chat and email
+
+AxisOption's trading terminal operates on enterprise infrastructure powered by **CorexCapital AI**.
+
+---
+
+## Global Market Access
+
+```text
+FOREX                 CRYPTO                COMMODITIES           SELECTED STOCKS
+Global FX sessions    24/7 market access   Gold & metals         Exchange-hour access
+Market-aligned data   Continuous pricing   Live market pricing   Market-aligned pricing
+```
+
+AxisOption's public positioning emphasizes synchronization with global market data, official trading hours for non-crypto instruments, and a professional terminal experience across supported markets.
+
+---
+
+## Partner with AxisOption
+
+AxisOption works with selected **IB networks, trading communities, finance publishers, content creators, educators, regional partners and compliant performance marketers**.
+
+<table>
+<tr>
+<td width="33%" align="center"><b>Manual Review</b><br/><sub>Every application assessed individually</sub></td>
+<td width="33%" align="center"><b>Private Dashboard</b><br/><sub>Referral and performance reporting</sub></td>
+<td width="33%" align="center"><b>Up to 20%</b><br/><sub>Eligible qualified deposit commission</sub></td>
+</tr>
+</table>
+
+Approved partners may receive dedicated tracking links, custom commission settings, referral reporting, traffic-quality review, commission status and payout reporting. Partner activity is subject to GEO eligibility, anti-fraud controls, platform rules and financial-promotion standards.
+
+<div align="center">
+
+### [Explore the Partner Program →](https://axisoption.com/partners.html)
+
+</div>
+
+---
+
+## News, Product Updates & Market Coverage
+
+Follow the official AxisOption News Hub for platform announcements, product developments, company updates and market-focused coverage.
+
+<div align="center">
+
+[![News Hub](https://img.shields.io/badge/AXISOPTION%20NEWS-READ%20LATEST%20UPDATES-0A1426?style=for-the-badge&logo=rss&logoColor=19E6C3)](https://axisoption.com/news/index.html)
+
+</div>
+
+---
+
+## Global & Multilingual
+
+<div align="center">
+
+[**English**](https://axisoption.com/) &nbsp;·&nbsp;
+[**Türkçe**](https://axisoption.com/?lang=tr) &nbsp;·&nbsp;
+[**العربية**](https://axisoption.com/?lang=ar) &nbsp;·&nbsp;
+[**فارسی**](https://axisoption.com/?lang=fa)
+
+</div>
+
+AxisOption states that it has served options traders since **2018**. The website lists **AxisOption Ltd.** and a registered office at **DIFC Gate Village, Dubai, United Arab Emirates**, with client access provided through the online platform.
+
+---
+
+## Official Links
+
+| | Destination | Official channel |
+|---:|---|---|
+| 🌐 | **Website** | [axisoption.com](https://axisoption.com/) |
+| ⚡ | **Live Platform** | [trade.corexcapitalai.com](https://trade.corexcapitalai.com/) |
+| 📊 | **Products & Demo** | [Explore the trading experience](https://axisoption.com/products.html) |
+| 🏢 | **Company** | [About AxisOption](https://axisoption.com/about.html) |
+| 🤝 | **Partners** | [Partner Program](https://axisoption.com/partners.html) |
+| 📰 | **News** | [AxisOption News Hub](https://axisoption.com/news/index.html) |
+| 💬 | **Client Services** | [Contact & Support](https://axisoption.com/contact.html) |
+| ⚖️ | **Legal** | [Terms & Risk Disclosure](https://axisoption.com/terms.html) |
+| ✉️ | **Email** | [admin@axisoption.com](mailto:admin@axisoption.com) |
+
+---
+
+<details>
+<summary><b>About this GitHub organization</b></summary>
+<br/>
+
+This organization is the public **brand and technology showcase** for AxisOption. Proprietary trading logic, private infrastructure, credentials, user data, security-sensitive configuration and internal operational systems are intentionally not published in public repositories.
+
+For security-related reports, use the repository security guidance rather than posting sensitive details publicly.
+
+</details>
+
+<br/>
+
+<div align="center">
+
+## Trade with clarity. Explore before you commit.
+
+[![Visit AxisOption](https://img.shields.io/badge/VISIT%20AXISOPTION-OFFICIAL%20WEBSITE-19E6C3?style=for-the-badge&labelColor=07111F)](https://axisoption.com/)
+[![Try Demo](https://img.shields.io/badge/TRY%20THE%20DEMO-INTERACTIVE%20TERMINAL-38BDF8?style=for-the-badge&labelColor=07111F)](https://axisoption.com/products.html)
+[![Open Platform](https://img.shields.io/badge/OPEN%20PLATFORM-LIVE%20ACCESS-8B7CFF?style=for-the-badge&labelColor=07111F)](https://trade.corexcapitalai.com/)
+
+<br/>
+
+<sub><b>Risk Warning:</b> Financial markets involve substantial risk of loss and may not be suitable for all users. You may lose part or all of your capital. Past performance does not indicate future results. Services may be restricted in some jurisdictions. Review the Terms of Service and Risk Disclosure before using the platform.</sub>
+
+<br/><br/>
+
+**AxisOption Ltd. · Dubai, UAE · Trading infrastructure powered by CorexCapital AI**
 
 </div>
