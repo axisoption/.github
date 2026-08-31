@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: AxisOption Client Support
+    url: https://axisoption.com/contact.html
+    about: Account, platform, funding, withdrawal, demo, and general service enquiries.
+  - name: AxisOption Partner Program
+    url: https://axisoption.com/partners.html
+    about: IB, affiliate, publisher, creator, regional partner, and business collaboration enquiries.
+  - name: Security Vulnerability Reporting
+    url: https://github.com/axisoption/.github/blob/main/SECURITY.md
+    about: Read the private disclosure instructions before reporting security-sensitive information.
+  - name: AxisOption News Hub
+    url: https://axisoption.com/news/index.html
+    about: Official platform announcements, company news, and market-focused updates.
