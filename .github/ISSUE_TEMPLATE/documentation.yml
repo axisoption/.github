@@ -1,0 +1,49 @@
+name: Public documentation correction
+description: Report an error or propose a focused correction to public AxisOption GitHub documentation.
+title: "[Docs] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve the public AxisOption GitHub presence. For account support, payments, trading assistance, partnerships, or security vulnerabilities, use the dedicated contact links instead of this form.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Documentation area
+      options:
+        - Organization profile
+        - Public links
+        - Product description
+        - Brand/reference information
+        - Support or security documentation
+        - Other public documentation
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: What is currently incorrect or unclear?
+      description: Quote or describe the public text, link, or section that should be reviewed.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed correction
+      description: Describe the precise correction or improvement you recommend.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official reference, if available
+      description: Link to an official AxisOption page that supports the correction.
+      placeholder: https://axisoption.com/...
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have not included passwords, private keys, personal data, payment credentials, vulnerability details, or other confidential information.
+          required: true
