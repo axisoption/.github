@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/axisoption/.github/main/profile/assets/axisoption-hero.svg?v=2" width="100%" alt="AxisOption — Professional options trading with live market pricing" />
+<img src="https://raw.githubusercontent.com/axisoption/.github/main/profile/assets/axisoption-hero.svg?v=3" width="100%" alt="AxisOption — Professional options trading with live market data" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-**Live market pricing · TradingView charts · Early trade cancellation · Transparent conditions · 24/7 multilingual support**
+**Live market data · TradingView charts · Demo position cancellation · Transparent conditions · 24/7 multilingual support**
 
 [![Since 2018](https://img.shields.io/badge/SINCE-2018-0D1A2B?style=flat-square&labelColor=0D1A2B&color=19E6C3)](https://axisoption.com/about.html)
 [![$10K Demo](https://img.shields.io/badge/VIRTUAL%20DEMO-%2410K-0D1A2B?style=flat-square&labelColor=0D1A2B&color=38BDF8)](https://axisoption.com/products.html)
@@ -25,16 +25,16 @@
 
 ## The AxisOption Experience
 
-**AxisOption** is a professional options trading platform built around **market-aligned pricing, clear trade conditions, responsive execution and direct access to professional charting**.
+**AxisOption** is a professional options trading platform built around **live market data, clear trade conditions, responsive execution and direct access to professional charting**.
 
-The public platform experience covers **Forex, Crypto, Commodities and selected Stocks**, with multiple options formats and a responsive terminal designed for desktop, tablet and mobile.
+The public platform experience covers **Forex, Crypto, Commodities and selected Stocks**, with multiple options formats in a unified trading terminal.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Live Market Pricing
-Quotes are presented in alignment with global market data and the trading sessions of the underlying instruments. Non-crypto markets follow their normal market hours, while crypto remains continuously available.
+### ◈ Live Market Data
+AxisOption presents live market data across supported instruments and integrates that data directly into the trading workflow.
 
 </td>
 <td width="50%" valign="top">
@@ -47,8 +47,8 @@ Analyze markets with TradingView indicators, drawing tools, multiple timeframes 
 <tr>
 <td width="50%" valign="top">
 
-### ↩ Early Trade Cancellation
-Eligible trades may be cancelled during the initial cancellation window, returning the full stake where the feature is available under the current platform rules.
+### ↩ Demo Position Cancellation
+The interactive demo supports cancelling open demo positions before expiry where the interface permits it, with virtual funds returned to the demo balance.
 
 </td>
 <td width="50%" valign="top">
@@ -80,7 +80,7 @@ The interactive environment lets visitors explore the interface with **$10,000 i
 | **Multi-asset access** | Forex · Crypto · Commodities · Selected Stocks |
 | **Demo balance** | $10,000 virtual funds for interface exploration |
 | **Trade visibility** | Payout and expiry displayed before confirmation |
-| **Responsive access** | Desktop · Tablet · Mobile |
+| **Demo cancellation** | Open demo positions may be cancelled before expiry where supported |
 
 <div align="center">
 
@@ -107,7 +107,7 @@ The interactive environment lets visitors explore the interface with **$10,000 i
 
 <table>
 <tr>
-<td align="center" width="25%"><b>LIVE</b><br/><sub>Global pricing alignment</sub></td>
+<td align="center" width="25%"><b>LIVE</b><br/><sub>Market data</sub></td>
 <td align="center" width="25%"><b>256-bit</b><br/><sub>SSL encrypted access</sub></td>
 <td align="center" width="25%"><b>24/7</b><br/><sub>Direct client support</sub></td>
 <td align="center" width="25%"><b>4+</b><br/><sub>Platform languages</sub></td>
@@ -131,11 +131,11 @@ AxisOption's trading terminal operates on enterprise infrastructure powered by *
 
 ```text
 FOREX                 CRYPTO                COMMODITIES           SELECTED STOCKS
-Global FX sessions    24/7 market access   Gold & metals         Exchange-hour access
-Market-aligned data   Continuous pricing   Live market pricing   Market-aligned pricing
+Multi-asset access    Digital-asset access  Gold & commodities    Supported equities
+Live market data      Live market data      Live market data      Live market data
 ```
 
-AxisOption's public positioning emphasizes synchronization with global market data, official trading hours for non-crypto instruments, and a professional terminal experience across supported markets.
+AxisOption's public positioning emphasizes live market data, professional charting and a unified terminal experience across supported markets.
 
 ---
 
@@ -148,7 +148,7 @@ The **AxisOption News Hub** is the canonical source for current platform announc
 <td width="50%" valign="top">
 
 ### 📡 Market Infrastructure
-Live market pricing, global trading sessions, supported asset classes and the infrastructure behind the trading experience.
+Live market data, supported asset classes and the infrastructure behind the trading experience.
 
 </td>
 <td width="50%" valign="top">
@@ -176,9 +176,9 @@ Partner onboarding, private dashboard capabilities, tracking, qualification stan
 
 ### Topics currently central to the AxisOption platform
 
-- **Live market pricing & global sessions** — market-aligned quotes and official trading-hour behavior for supported non-crypto instruments
+- **Live market data & multi-asset access** — live data across supported Forex, Crypto, Commodities and selected Stocks
 - **TradingView inside the terminal** — indicators, drawing tools, multiple timeframes and direct chart-based trading
-- **Early trade cancellation** — an initial cancellation window for eligible trades where supported by current platform rules
+- **Demo position cancellation** — cancellation of open demo positions before expiry where supported by the demo interface
 - **Transparent trade conditions** — payout, expiry and relevant trade information shown before confirmation
 - **Multi-asset access** — Forex, Crypto, Commodities and selected Stocks in one trading environment
 - **Partner infrastructure** — manually reviewed access to private tracking, reporting and commission workflows
