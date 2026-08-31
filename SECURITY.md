@@ -1,37 +1,64 @@
-# AxisOption Security
+# AxisOption Security Policy
 
-Security reports should be handled privately and responsibly.
+AxisOption values responsible security research and the private disclosure of potential vulnerabilities affecting its public services.
 
-## Reporting a security issue
+## Report a security vulnerability
 
-If you believe you have identified a security vulnerability affecting an AxisOption public website, account flow, trading interface, or other AxisOption-operated service, please contact:
+Please **do not open a public GitHub Issue** for security-sensitive findings.
 
-**admin@axisoption.com**
+Send reports privately to:
 
-Use the subject line: **[SECURITY] Vulnerability Report**
+**admin@axisoption.com**  
+Subject: **[SECURITY] Vulnerability Report**
 
-Please include, where applicable:
+You may also use the official contact channel at:
 
-- The affected URL, service, or component
-- A clear description of the issue and potential impact
-- Reproduction steps that do not expose or damage third-party data
-- Relevant screenshots, request/response details, or logs with sensitive information redacted
-- Any suggested mitigation or remediation notes
+**https://axisoption.com/contact.html**
 
-## Responsible handling
+## What to include
 
-Please do not publish sensitive vulnerability details in GitHub Issues, Discussions, social media, or other public channels before the matter has been reviewed.
+A useful report should contain, where applicable:
 
-Do not intentionally access another user's data, extract confidential information, degrade service availability, attempt social engineering, or perform destructive testing.
+- Affected URL, endpoint, application flow, or component
+- Clear description of the observed behavior
+- Potential security impact
+- Minimal, non-destructive reproduction steps
+- Relevant screenshots, logs, request/response details, or timestamps
+- Redacted evidence only — never include another user's private data
+- Suggested remediation, if available
 
-This public GitHub organization does not publish proprietary trading logic, credentials, private infrastructure configuration, user data, or security-sensitive operational systems.
+## Responsible testing expectations
 
-## Account and client support
+Security research must be performed in good faith and without harming users, data, systems, or service availability.
 
-Security reporting is separate from normal client support. For account access, funding, platform usage, or general assistance, use the official support channels listed at:
+Please do not:
 
-https://axisoption.com/contact.html
+- Access, retain, modify, or disclose another user's information
+- Attempt destructive testing or denial-of-service activity
+- Perform social engineering, phishing, credential theft, or physical attacks
+- Exfiltrate confidential information or production secrets
+- Publish an unresolved vulnerability before AxisOption has had a reasonable opportunity to review it
+
+If a proof of concept is needed to demonstrate impact, use the minimum activity required and stop once the issue has been confirmed.
+
+## Scope of this public GitHub organization
+
+This GitHub organization is a public brand and technology showcase. Proprietary trading logic, credentials, production secrets, user data, private infrastructure configuration, and other security-sensitive operational material are not intentionally published here.
+
+A vulnerability affecting the public website, authentication/account flow, trading interface, or another AxisOption-operated public service can still be reported through the private channel above.
+
+## Security vs. client support
+
+Security reports are handled separately from account or service support.
+
+For account access, platform usage, funding/withdrawal enquiries, demo assistance, or general client service, use:
+
+**https://axisoption.com/contact.html**
 
 ## Official domain
 
-https://axisoption.com/
+**https://axisoption.com/**
+
+---
+
+Please verify that any communication claiming to represent AxisOption points back to an official AxisOption domain or an official channel published on the website.
