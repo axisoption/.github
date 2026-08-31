@@ -7,6 +7,7 @@
 [![Official Website](https://img.shields.io/badge/OFFICIAL%20WEBSITE-axisoption.com-07111F?style=for-the-badge&logo=googlechrome&logoColor=19E6C3)](https://axisoption.com/)
 [![Live Platform](https://img.shields.io/badge/LIVE%20PLATFORM-OPEN-07111F?style=for-the-badge&logo=tradingview&logoColor=38BDF8)](https://trade.corexcapitalai.com/)
 [![Interactive Demo](https://img.shields.io/badge/INTERACTIVE%20DEMO-TRY%20NOW-07111F?style=for-the-badge&logo=lightning&logoColor=8B7CFF)](https://axisoption.com/products.html)
+[![News Hub](https://img.shields.io/badge/NEWS%20%26%20INSIGHTS-LATEST-07111F?style=for-the-badge&logo=rss&logoColor=F59E0B)](https://axisoption.com/news/index.html)
 [![Partner Program](https://img.shields.io/badge/PARTNER%20PROGRAM-APPLY-07111F?style=for-the-badge&logo=handshake&logoColor=19E6C3)](https://axisoption.com/partners.html)
 
 <br/>
@@ -138,6 +139,61 @@ AxisOption's public positioning emphasizes synchronization with global market da
 
 ---
 
+## News & Market Intelligence
+
+The **AxisOption News Hub** is the canonical source for current platform announcements, market-focused coverage, product developments and company updates. GitHub highlights the durable topics that define the platform while time-sensitive headlines remain on the official website.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 Market Infrastructure
+Live market pricing, global trading sessions, supported asset classes and the infrastructure behind the trading experience.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Platform & Product
+TradingView integration, terminal capabilities, demo experience, option formats and product-level developments.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Company & Technology
+AxisOption company developments, enterprise infrastructure and the CorexCapital AI technology relationship.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Partner & Growth
+Partner onboarding, private dashboard capabilities, tracking, qualification standards and compliant growth initiatives.
+
+</td>
+</tr>
+</table>
+
+### Topics currently central to the AxisOption platform
+
+- **Live market pricing & global sessions** — market-aligned quotes and official trading-hour behavior for supported non-crypto instruments
+- **TradingView inside the terminal** — indicators, drawing tools, multiple timeframes and direct chart-based trading
+- **Early trade cancellation** — an initial cancellation window for eligible trades where supported by current platform rules
+- **Transparent trade conditions** — payout, expiry and relevant trade information shown before confirmation
+- **Multi-asset access** — Forex, Crypto, Commodities and selected Stocks in one trading environment
+- **Partner infrastructure** — manually reviewed access to private tracking, reporting and commission workflows
+
+<div align="center">
+
+[![Read Latest News](https://img.shields.io/badge/READ%20LATEST%20NEWS-AXISOPTION%20NEWS%20HUB-F59E0B?style=for-the-badge&labelColor=07111F&logo=rss&logoColor=white)](https://axisoption.com/news/index.html)
+[![GitHub Newsroom](https://img.shields.io/badge/GITHUB%20NEWSROOM-EDITORIAL%20INDEX-38BDF8?style=for-the-badge&labelColor=07111F)](../NEWS.md)
+
+</div>
+
+> Current market headlines and newly published articles remain on the official News Hub so GitHub does not become a stale mirror of time-sensitive coverage.
+
+---
+
 ## Partner with AxisOption
 
 AxisOption works with selected **IB networks, trading communities, finance publishers, content creators, educators, regional partners and compliant performance marketers**.
@@ -155,18 +211,6 @@ Approved partners may receive dedicated tracking links, custom commission settin
 <div align="center">
 
 ### [Explore the Partner Program →](https://axisoption.com/partners.html)
-
-</div>
-
----
-
-## News, Product Updates & Market Coverage
-
-Follow the official AxisOption News Hub for platform announcements, product developments, company updates and market-focused coverage.
-
-<div align="center">
-
-[![News Hub](https://img.shields.io/badge/AXISOPTION%20NEWS-READ%20LATEST%20UPDATES-0A1426?style=for-the-badge&logo=rss&logoColor=19E6C3)](https://axisoption.com/news/index.html)
 
 </div>
 
@@ -195,8 +239,9 @@ AxisOption states that it has served options traders since **2018**. The website
 | ⚡ | **Live Platform** | [trade.corexcapitalai.com](https://trade.corexcapitalai.com/) |
 | 📊 | **Products & Demo** | [Explore the trading experience](https://axisoption.com/products.html) |
 | 🏢 | **Company** | [About AxisOption](https://axisoption.com/about.html) |
+| 📰 | **Latest News** | [AxisOption News Hub](https://axisoption.com/news/index.html) |
+| 📚 | **GitHub Newsroom** | [News & editorial index](../NEWS.md) |
 | 🤝 | **Partners** | [Partner Program](https://axisoption.com/partners.html) |
-| 📰 | **News** | [AxisOption News Hub](https://axisoption.com/news/index.html) |
 | 💬 | **Client Services** | [Contact & Support](https://axisoption.com/contact.html) |
 | ⚖️ | **Legal** | [Terms & Risk Disclosure](https://axisoption.com/terms.html) |
 | ✉️ | **Email** | [admin@axisoption.com](mailto:admin@axisoption.com) |
