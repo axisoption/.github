@@ -21,7 +21,7 @@ The News Hub is linked directly from the main AxisOption website navigation and 
 | Coverage | What it focuses on | Official reference |
 |---|---|---|
 | **Platform & Product Updates** | Trading terminal capabilities, product experience, demo environment and interface developments | [Products & Demo](https://axisoption.com/products.html) |
-| **Market Infrastructure** | Live market pricing, market sessions, TradingView charting and execution environment | [AxisOption](https://axisoption.com/) |
+| **Market Infrastructure** | Live market data, TradingView charting, supported markets and execution environment | [AxisOption](https://axisoption.com/) |
 | **Technology** | Enterprise trading infrastructure and the CorexCapital AI technology relationship | [Company & Technology](https://axisoption.com/about.html) |
 | **Partner & Growth** | Partner onboarding, private dashboard, tracking, qualification and compliance standards | [Partner Program](https://axisoption.com/partners.html) |
 | **Transparency & Risk** | Published terms, risk disclosure, platform rules and account-security information | [Legal Center](https://axisoption.com/terms.html) |
@@ -31,14 +31,14 @@ The News Hub is linked directly from the main AxisOption website navigation and 
 
 ## Platform Stories Worth Following
 
-### Live Market Pricing & Global Sessions
-AxisOption publicly emphasizes market-aligned pricing across supported asset classes, with non-crypto instruments following their normal market hours and crypto available continuously.
+### Live Market Data & Multi-Asset Access
+AxisOption publicly presents live market data across supported markets, including Forex, Crypto, Commodities and selected Stocks, through a unified trading experience.
 
 ### TradingView Inside the Trading Workflow
 Professional TradingView charting, indicators, drawing tools, multiple timeframes and direct trade entry are core parts of the public platform experience.
 
-### Early Trade Cancellation
-Eligible trades may be cancelled during an initial cancellation window where the feature is available under current platform rules.
+### Demo Position Cancellation
+The interactive demo supports cancelling open demo positions before expiry where the interface permits it, with virtual funds returned to the demo balance.
 
 ### Transparent Trade Conditions
 Payout information, expiry conditions and relevant trade details are presented before confirmation as part of AxisOption's clarity-first platform positioning.
