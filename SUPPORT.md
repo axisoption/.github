@@ -1,43 +1,55 @@
-# AxisOption Support
+# AxisOption Support & Contact Routing
 
-GitHub is used as a public brand and technology showcase for AxisOption. Client-specific support should be handled through the official AxisOption service channels rather than public GitHub issues.
+This GitHub organization is a public product, brand, and technology showcase. It is **not** the primary channel for account-specific support, trading assistance, payment enquiries, or confidential information.
 
-## Client Services
+## Client support
 
-For questions related to:
+For account or platform assistance, including:
 
-- Account access
-- Platform access
-- Funding or withdrawals
+- Account access and login issues
+- Platform availability or interface questions
+- Funding and withdrawal enquiries
+- Demo access and product questions
 - Trading interface usage
-- Demo access
-- Partner onboarding
 - General service enquiries
 
-please use the official contact page:
+use the official AxisOption contact page:
 
 **https://axisoption.com/contact.html**
 
-or email:
+or the support channels published on the official website.
 
-**admin@axisoption.com**
+Email: **admin@axisoption.com**
 
-AxisOption also provides direct client support through the live-chat channels available on the official website.
+## Partner & business enquiries
 
-## Partner enquiries
-
-Partner applications, IB enquiries, media relationships, creator collaborations and performance-marketing proposals should be submitted through:
+For Introducing Broker opportunities, affiliate partnerships, finance publishers, creator collaborations, regional partnerships, media relationships, and performance-marketing enquiries:
 
 **https://axisoption.com/partners.html**
 
-## Security issues
+Partner applications are reviewed through the official AxisOption process.
 
-Do not publish security-sensitive information in a public issue. Please follow the private reporting guidance in [SECURITY.md](SECURITY.md).
+## Security reports
 
-## Official resources
+Never post credentials, vulnerability details, user information, private logs, or security-sensitive material in a public GitHub Issue.
 
-- Website: https://axisoption.com/
-- Live platform: https://trade.corexcapitalai.com/
-- Products & demo: https://axisoption.com/products.html
-- News: https://axisoption.com/news/index.html
-- Terms & risk disclosure: https://axisoption.com/terms.html
+Use the private disclosure process described in [SECURITY.md](SECURITY.md).
+
+## Product & company information
+
+| Resource | Official destination |
+|---|---|
+| Website | https://axisoption.com/ |
+| Live trading platform | https://trade.corexcapitalai.com/ |
+| Products & interactive demo | https://axisoption.com/products.html |
+| About AxisOption | https://axisoption.com/about.html |
+| Partner program | https://axisoption.com/partners.html |
+| News & market updates | https://axisoption.com/news/index.html |
+| Terms & risk disclosure | https://axisoption.com/terms.html |
+| Contact | https://axisoption.com/contact.html |
+
+## Before contacting us
+
+For the fastest routing, include the relevant page or service, a concise description of the request, and any non-sensitive screenshots or timestamps that help identify the issue.
+
+Do **not** send passwords, private keys, recovery phrases, full payment credentials, or other authentication secrets through GitHub.
